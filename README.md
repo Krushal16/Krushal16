@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Krushal Sardhara</h1>
 
 <p align="center">
-  <b>AI/ML Graduate Student · Machine Learning · NLP & LLMs · Data Science</b><br>
+  <b>AI/ML Postgraduate Student · Machine Learning · NLP & LLMs · Data Science</b><br>
   Ottawa, Ontario · Available for a full-time co-op from <b>January to April 2027</b>
 </p>
 
@@ -41,7 +41,7 @@
 | Project | What it is | Stack |
 | --- | --- | --- |
 | **[COVID-19 Research Assistant – Agentic RAG](https://github.com/Krushal16/covid19-rag-assistant)** | A five-notebook Databricks pipeline: PDF ingestion, 800-character chunks, 384-dim embeddings and a FAISS index, stored as Delta tables in Unity Catalog. Llama 3.3 70B answers with page-level citations; a context-quality gate falls back to Wikipedia; route accuracy and latency are tracked in MLflow. | Databricks · LangChain · FAISS · Sentence Transformers · MLflow |
-| **[Intelligent News Classifier](https://github.com/Krushal16/Intelligent-News-Classifier)** · [live demo](https://intelligent-news-classifier-dhecwgfu4rg3utdnrc5xn9.streamlit.app/) | TF-IDF + Linear SVM / Logistic Regression trained on 120,000 AG News articles; **90.17% accuracy, 0.90 macro-F1** on 7,600 held-out articles. Group course project; I built most of the pipeline and the Streamlit app. | Python · scikit-learn · Streamlit |
+| **[Intelligent News Classifier](https://github.com/Krushal16/Intelligent-News-Classifier)** · [live demo](https://intelligent-news-classifier-dhecwgfu4rg3utdnrc5xn9.streamlit.app/) | Sorts news into World, Sports, Business and Sci/Tech with TF-IDF + LinearSVC, tuned against Logistic Regression on 120,000 AG News articles: **90.17% accuracy, 0.90 macro-F1** on 7,600 held-out articles. 4-person course project. **My part:** consistent label handling across the pipeline, tuning experiments, final evaluation and reproducibility checks. | Python · scikit-learn · Streamlit |
 | **[JobShield – Fake Job Posting Detector](https://github.com/Krushal16/JobShield)** *(in progress)* | 4-person capstone that flags fraudulent job postings with a risk score and explanations (EMSCAD, 17,880 postings). **My role:** coordination, repository setup, live-data pipeline, Streamlit app and deployment. | Python · scikit-learn · XGBoost · DistilBERT · Streamlit |
 | **[Uber & Lyft Ride Price Prediction](https://github.com/Krushal16/uber-lyft-price-prediction)** | 2-person project on 693K Boston rides. Tuned Gradient Boosting reached **R² 0.97, RMSE $1.52** (5-fold CV R² 0.969). **My part:** data loading and cleaning, baseline models, Random Forest modelling and tuning. | Python · pandas · scikit-learn |
 | **[Retail Sales Analytics Dashboard](https://github.com/Krushal16/retail-sales-powerbi-dashboard)** | 4-page Power BI report on $17.3M in sales and 55K orders: star-schema model and 14 DAX measures. Found Delivery's refund rate (~4%) is double In-Store's (~2%). | Power BI · DAX · Data modelling |
