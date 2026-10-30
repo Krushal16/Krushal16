@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/krushal-sardhara/"><img src="https://img.shields.io/badge/LinkedIn-krushal--sardhara-0A66C2?style=flat-square" alt="LinkedIn"></a>
-  <a href="mailto:krushalsardhara1608@gmail.com"><img src="https://img.shields.io/static/v1?label=Email&message=krushalsardhara1608%40gmail.com&color=EA4335&style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/krushal-sardhara/"><img src="https://img.shields.io/badge/LinkedIn-krushal--sardhara-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:krushalsardhara1608@gmail.com"><img src="https://img.shields.io/badge/Email-krushalsardhara1608%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://intelligent-news-classifier-dhecwgfu4rg3utdnrc5xn9.streamlit.app/"><img src="https://img.shields.io/badge/Live_demo-News_Classifier-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Live demo"></a>
 </p>
 
@@ -74,7 +74,7 @@
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
 <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square" alt="FAISS">
 <img src="https://img.shields.io/badge/Sentence_Transformers-555555?style=flat-square" alt="Sentence Transformers">
-<img src="https://img.shields.io/static/v1?label=&message=Llama%203.3&color=0467DF&style=flat-square&logo=meta&logoColor=white" alt="Llama 3.3">
+<img src="https://img.shields.io/badge/Llama_3.3-0467DF?style=flat-square&logo=meta&logoColor=white" alt="Llama 3.3">
 <img src="https://img.shields.io/badge/RAG-6E40C9?style=flat-square" alt="RAG">
 
 **Data platforms, MLOps & BI**
