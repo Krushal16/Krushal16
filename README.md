@@ -2,10 +2,12 @@
 
 <p align="center">
   <b>AI/ML Postgraduate Student · Machine Learning · NLP & LLMs · Data Science</b><br>
-  Ottawa, Ontario · Available for a full-time co-op from <b>January to April 2027</b>
+  Ottawa, Ontario · Available for a full-time co-op from <b>January to April 2027</b><br>
+  <b>Portfolio:</b> <a href="https://krushal16.github.io/">krushal16.github.io</a>
 </p>
 
 <p align="center">
+  <a href="https://krushal16.github.io/"><img src="https://img.shields.io/badge/Portfolio-krushal16.github.io-8B7FFF?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/krushal-sardhara/"><img src="https://img.shields.io/badge/LinkedIn-krushal--sardhara-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:krushalsardhara1608@gmail.com"><img src="https://img.shields.io/badge/Email-krushalsardhara1608%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://intelligent-news-classifier-dhecwgfu4rg3utdnrc5xn9.streamlit.app/"><img src="https://img.shields.io/badge/Live_demo-News_Classifier-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Live demo"></a>
